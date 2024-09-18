@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on detecting scam calls in real time using on device LLMs<br>👯 I’m looking to collaborate on anything related to data<br>🤝 I’m looking for help with creating a robust dataset containing different scams<br>🌱 I’m currently learning Natural Language Processing<br>💬 Ask me about Machine Learning, Deep Learning & Reinforcement Learning<br>🌒 Got in astrophotography recently
+🔭 I’m currently working on detecting scam calls in real time using on device LLMs<br>👯 I’m looking to collaborate on anything related to data<br>🤝 I’m looking for help with creating a robust dataset containing different scams<br>🌱 I’m currently learning Natural Language Processing<br>💬 Ask me about Machine Learning, Deep Learning & Reinforcement Learning<br>🌒 Got into astrophotography recently
 
 
 ## 🌐 Socials:
